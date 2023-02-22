@@ -1,6 +1,6 @@
 <h1 align="center">Expense-tracker</h1>
 
-<p align="center">Expense-tracker is an expense tracker. <br/>
+<p align="center">Expense-tracker é um rastreador de despesas. <br/>
 </p>
 
 <br>
@@ -21,6 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-expense-tracker monitors user expenses, for personal use, obs: project under test..
+Expense-tracker é um rastreador de despesas monitorando os gastos do usuário, para uso pessoal, obs: projeto em teste...
 
-- [Visite o projeto online](https://vercel.com/)
+- [Visite o projeto online](https://expense-tracker-pi-murex.vercel.app/)
